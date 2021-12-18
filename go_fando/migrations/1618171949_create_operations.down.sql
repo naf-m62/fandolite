@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS operations;
+DROP TABLE IF EXISTS containers;
+DROP TYPE IF EXISTS container_types;
+ALTER TABLE users DROP COLUMN IF EXISTS balls;

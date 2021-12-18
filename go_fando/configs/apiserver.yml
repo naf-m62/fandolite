@@ -1,0 +1,10 @@
+bind_addr: 192.168.31.110:80
+log_level: debug
+sessions_key: hfipaJKHu7qj78576GFf0jf4n5f7n54fyt027dYT587iGHV34d82347d7t36e62tTTDFRT67e56tgyFDtR563r644rfs
+
+store:
+  host: 127.0.0.1
+  port: 5432
+  username: postgres
+  password: postgres
+  dbname: rest_api_dev
